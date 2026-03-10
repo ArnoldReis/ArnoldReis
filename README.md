@@ -34,7 +34,7 @@
 **Databases & Infrastructure:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,aws,git,github" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github" />
   </a>
 </p>
 
