@@ -31,14 +31,19 @@
   </a>
 </p>
 
-**Infrastructure, Databases & Automation:**
+**Databases & Infrastructure:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,aws,git,github" />
   </a>
 </p>
+
+**Automation, APIs & Engineering:**
 <p align="left">
-  <em>💡 Plus: n8n, Swagger, QA Testing, and AI Agent Orchestration</em>
+  <img src="https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
+  <img src="https://img.shields.io/badge/QA%20Testing-black?style=for-the-badge" alt="QA Testing">
+  <img src="https://img.shields.io/badge/AI%20Agents-%230078D4.svg?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents">
 </p>
 
 ---
