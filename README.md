@@ -1,56 +1,37 @@
-<h1 align="center">Hi, I'm Arnold! 👋</h1>
+# Hi, I'm Arnold Reis 👋
 
-<h3 align="center">Software Engineering @UTFPR | ⚙️ Focused on Automation, AI & Software Architecture | 🚀 Building smart solutions</h3>
+**Software Engineer · Mid-level Software Developer · Backend, AI & Automation**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arnold-reis" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="mailto:arnold.reis@outlook.com.br">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</p>
+I'm a Software Engineering graduate from **UTFPR (2025)**, currently pursuing postgraduate studies in **AI for Developers at FIAP**. I build backend services and business process automation, and I explore the engineering of AI agents, RAG, and local language models.
 
----
+📍 Araçatuba, São Paulo, Brazil · 🇧🇷 PT / 🇺🇸 EN
 
-### 👨‍💻 About me:
+[**Portfolio**](https://arnoldreis.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/arnold-reis) · [**Email**](mailto:arnold.reis@outlook.com.br)
 
-- 🎓 **Education:** Software Engineering at UTFPR
-- 💼 **Experience:** Software Developer Natureza Distribuidora
-- 🚀 **Currently building:**...
-- ⚙️ **Specialties:** Back-End Development, Artificial Intelligence, System Architecture, and Workflow Automation (n8n, Webhooks, AI Agents).
+## What I work on
 
----
+- **Backend & integrations:** TypeScript, Node.js, Fastify, REST APIs, SQL Server, Redis.
+- **Automation:** n8n, webhooks, API integration, Python scripts, Docker.
+- **Applied AI:** agents, RAG, embeddings, local LLM inference with Ollama, model evaluation.
+- **Engineering practices:** Git/GitHub, Linux, testing, system design and observability.
 
-### 🛠️ My Skills & Tools:
+I'm a Mid-level Software Developer at **Natureza Produtos Veterinários** (since September 2025; promoted in July 2026). My work includes internal services, integration and automation. Company-specific implementation details and data remain private.
 
-**Languages & Frameworks:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,python,java,c,html,css" />
-  </a>
-</p>
+## Selected public projects
 
-**Databases & Infrastructure:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github" />
-  </a>
-</p>
+| Project | What it demonstrates |
+| --- | --- |
+| [Cattle Behavior Detection on SBCs](https://github.com/ArnoldReis/deteccao-comportamental-bovinos-sbc) | UTFPR thesis: computer vision, multiple detectors, device constraints, reproducible benchmarks |
+| [ResiliQ](https://github.com/ArnoldReis/ResiliQ) | Distributed Go queues, idempotency, retries, DLQ and observability |
+| [Collaborative Editor](https://github.com/ArnoldReis/Editor_Colaborativo) | Real-time collaboration with Yjs CRDTs, persistence and offline support |
+| [Internet Monitoring Dashboard](https://github.com/ArnoldReis/Dashboard_Analisedeinternet) | Connectivity diagnostics, dashboards and monitoring alerts |
+| [EncurtaLink](https://github.com/ArnoldReis/EncurtaLink) | Fastify API, URL shortener, analytics, validation and rate limiting |
+| [LangChain exercises](https://github.com/ArnoldReis/CursoLangchain) | Python, LangChain, LangGraph and RAG experiments |
 
-**Automation, APIs & Engineering:**
-<p align="left">
-  <img src="https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
-  <img src="https://img.shields.io/badge/QA%20Testing-black?style=for-the-badge" alt="QA Testing">
-  <img src="https://img.shields.io/badge/AI%20Agents-%230078D4.svg?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents">
-</p>
+Some professional and personal projects are private; public descriptions focus on approach rather than proprietary data or unverified business metrics.
 
 ---
 
-### 📊 GitHub Stats:
+### Em português
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArnoldReis&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArnoldReis&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+Sou **Desenvolvedor de Software Pleno**, formado em Engenharia de Software pela **UTFPR** e pós-graduando em **IA para Devs na FIAP**. Trabalho com back-end, integrações e automações utilizando TypeScript, Fastify, SQL Server, Redis e n8n, além de estudar agentes, RAG e modelos locais. Conheça meus projetos e cases no [portfólio](https://arnoldreis.vercel.app/).
