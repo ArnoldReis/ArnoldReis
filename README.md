@@ -16,7 +16,7 @@
 ### 👨‍💻 About me
 
 - 🎓 **Education:** Software Engineering at UTFPR
-- 💼 **Experience:** Software Developer at Natureza Distribuidora
+- 💼 **Experience:** Software Developer at Américo e Conrado
 - 🚀 **Currently building:** ...
 - ⚙️ **Specialties:** Back-End Development, Artificial Intelligence, System Architecture, and Workflow Automation (n8n, Webhooks, AI Agents)
 
