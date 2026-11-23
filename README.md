@@ -20,7 +20,7 @@
 ## 👨‍💻 About me
 
 - 💼 **Software Developer** at **Américo e Conrado**
-- 🎓 **Software Engineering** graduate from **UTFPR** · postgraduate studies in **AI for Developers** at **FIAP**
+- 🎓 **Software Engineering** graduate from **UTFPR** · postgraduate in **AI for Developers** at **FIAP** (in progress)
 - 🔭 **Exploring:** AI agents, RAG, embeddings and local LLMs (Ollama)
 - ⚙️ **Specialties:** Back-End Development, System Architecture and Workflow Automation (n8n, Webhooks, APIs)
 - 🌎 **Languages:** Portuguese · English
